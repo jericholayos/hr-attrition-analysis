@@ -1,8 +1,6 @@
 SET search_path TO public;
 
 
-/* Workload & Satisfaction */
-
 -- Level 1 has the highest attrition rate in Job Satisfaction Level at 22%, 
 -- and as Satisfaction Level increases, attrition rate decreases.
 -- Job Satisfaction Level 1 should be prioritized, as it's a significant driver for attrition
