@@ -10,7 +10,7 @@ End-to-end data analysis project identifying the key drivers of employee attriti
 
 
 ## Dashboard
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c05a63d9-19b5-4ac4-9dfd-a1f5542cc4d7" />
+<img width="1343" height="708" alt="image" src="https://github.com/user-attachments/assets/4e07794a-85fe-4450-bb49-a8055a8244cd" />
 
 
 ## Key Insights
